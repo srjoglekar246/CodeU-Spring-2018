@@ -41,6 +41,7 @@
       <h2>Welcome!</h2>
 
       <ul>
+        <li>Jonathan was here!</li>
         <li><a href="/login">Login</a> to get started.</li>
         <li>Go to the <a href="/conversations">conversations</a> page to
             create or join a conversation.</li>
